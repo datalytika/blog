@@ -1,3 +1,3 @@
-# PesaFul
+# Datalytika Blog
 
-Just banter about finances
+Just banter about data and web trends
